@@ -1,0 +1,11 @@
+#Instruções para utilizar as Formulações para o PLCML - Modelos em Concert - CPLEX
+
+- Sintaxe para criar o arquivo executável:
+Formulação 1: make comp-form1
+Formulação 2: make comp-form2
+Formulação 3: make comp-form3
+
+- Exemplos de sintaxe para rodar as instâncias:
+CAB: ./form1 cab.txt 0.2 1000 150 15 (nome da instância / alpha / receita / custos de instalação de hubs / custos de instalação de arcos hubs )
+AP: ./form1 10L.txt 0.2 20 (alpha / receita)
+
