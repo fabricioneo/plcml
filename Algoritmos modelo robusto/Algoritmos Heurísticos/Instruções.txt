@@ -1,5 +1,0 @@
-#Instruções  - Algoritmos ILS e E-ILS - Algoritmos em C++
-
-- Exemplo de sintaxe para rodar as instâncias:
-AP: ./Heuristicas 40L.txt 0.2 30 (nome da instãncia / alpha / receita)
-Contreras: ./Heuristicas 250i.txt 0.4 2 (nome da instância / alpha / receita)
