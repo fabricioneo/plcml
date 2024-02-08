@@ -1,0 +1,13 @@
+#Instruções  - Métodos de decomposição de Benders
+
+#Descrição dos métodos
+BD: Método de decomposição de Benders clássico
+BD-n: Método de decomposição de Benders que adiciona n cortes a cada iteração
+BD-n2: Método de decomposição de Benders que adiciona n^2 cortes a cada iteração
+BDMW-n2: Método de decomposição de Benders que utiliza todas as estratégias de aprimoramento descritas na tese
+
+#Observação para o método BDMW-n2
+Para obter cada uma das variantes desse método BDCFI, BDCFR, BDCF, BDCFA, basta ativar e desativar a UserCutCallback e a LazyConstraintCallback
+
+#Exemplo de sintaxe para rodar os métodos
+./bdmwn2 100L.txt 0 1 0.2 20 (nome da instância / Ativar ou desativar LazyCallback / Ativar ou desativar UserCutCallback / alpha / receita)
