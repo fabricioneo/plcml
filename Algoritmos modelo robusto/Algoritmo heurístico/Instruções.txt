@@ -1,0 +1,4 @@
+#Método E-ILS-RVND para o PLCML robusto
+
+#Exemplo de sintaxe para rodar:
+./Heuristicas 200k.txt 0.2 5 0.6 (nome da instância / LazyCallback / UserCutCallback / alpha / receita / gamma)
