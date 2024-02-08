@@ -1,0 +1,12 @@
+#Conjuntos de dados Contreras
+
+Conjuntos de dados propostos por Contreras, I.; Cordeau, J.-F.; e Laporte, G. (2011). Benders decomposition for
+large-scale uncapacitated hub location. Operations Research, 59 , 1477–1490.
+
+Disponível para download em: https://users.encs.concordia.ca/~icontrer/web/instances.html
+
+#Os arquivos pertencentes aos Conjutos I, II e III estão identificados com os índices i, j e k, respectivamente.
+Esses arquivos mostram a quantidade de nós, as coordenadas dos nós, as demandas dos pares de origem-destino e os custos fixos de instalação
+de concentradores.
+
+
