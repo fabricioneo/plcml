@@ -1,0 +1,8 @@
+#Conjunto de dados AP
+
+Esse conjunto de dados foi proposto por Ernst, A. T.; e Krishnamoorthy, M. (1996). Efficient algorithms for the uncapacitated
+single allocation p-hub median problem. Location Science, 4 , 139–154.
+
+Disponível para download na OR Library: http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/phub1.txt
+
+#Os arquivos disponibilizados nesta pasta constam os seguintes dados: a quantidade de nós da rede, as coordenadas de cada nó, os valores de demanda para cada par de origem-destino e os custos fixos de instalação de concentradores.
