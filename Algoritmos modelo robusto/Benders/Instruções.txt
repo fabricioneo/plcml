@@ -1,0 +1,4 @@
+#Método de decomposição de Benders para o PLCML robusto
+
+#Exemplo de sintaxe para rodar:
+./bdmwsp 75T.txt 0 1 0.4 30 0.3 (nome da instância / LazyCallback / UserCutCallback / alpha / receita / gamma)
