@@ -1,0 +1,15 @@
+#Conjunto de dados CAB
+
+Esse conjunto de dados foi proposto por O’Kelly, M. E. (1987). A quadratic integer program for the location of interacting
+hub facilities. European Journal of Operational Research, 32 , 393–404.
+
+Disponível para download em OR Library: http://people.brunel.ac.uk/~mastjjb/jeb/orlib/files/phub4.txt
+
+#Arquivos disponibilizados
+cab.txt: arquivo original com os dados de demanda e custos de transporte (W C)
+cab2.txt: arquivo com os valores de demanda e custos de transporte (do arquivo original) e inclui valores para receita e 
+custos fixos de instalação de concentradores*. (W C r -- s) 
+
+*Os custos fixos de instalação de concentradores foram obtidos de Camargo, R. S.; de Miranda Jr, G.; e Luna, H. (2008). Benders decomposition for the
+uncapacitated multiple allocation hub location problem. Computers and Operations Research, 35 , 1047–1064.
+
